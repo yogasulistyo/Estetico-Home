@@ -78,7 +78,7 @@
   margin-right: 10px;
   margin-left: 10px;
   margin: auto;
-
+  margin-bottom: 30px;
   justify-content: center;
   align-items: center;
 }
@@ -109,6 +109,10 @@
   margin-top: 80px;
 }
 
+.imgcardlist {
+  width: 390px;
+}
+
 @media screen and (max-width: 600px) {
   .midtxt {
     margin: 80px 0px 50px 0px;
@@ -119,6 +123,20 @@
   .txtgreen {
     color: rgb(0, 65, 68);
     font-size: 35px;
+    font-weight: 500;
+  }
+}
+
+@media screen and (max-width: 430px) {
+  .midtxt {
+    margin: 80px 0px 50px 0px;
+    text-align: center;
+    font-size: 12px;
+  }
+
+  .txtgreen {
+    color: rgb(0, 65, 68);
+    font-size: 30px;
     font-weight: 500;
   }
 }
@@ -149,10 +167,26 @@
 
 @media screen and (max-width: 530px) {
   .txtcaros {
-    font-size: 7px;
+    font-size: 0px;
   }
 
   .txtcaro {
-    font-size: 7px;
+    font-size: 0px;
+  }
+}
+
+@media screen and (max-width: 530px) {
+  .cardsell {
+    width: 300px;
+    padding: 0px;
+    margin-right: 10px;
+    margin-left: 10px;
+    margin: auto;
+    margin-bottom: 30px;
+    justify-content: center;
+    align-items: center;
+  }
+  .imgcardlist {
+    width: 300px;
   }
 }

@@ -99,7 +99,7 @@ const index = () => {
                 <HiOutlineHeart />
               </div>
               <div>
-                <img style={{ width: 390 }} src="https://cdn.shoplightspeed.com/shops/645035/files/39633798/660x660x1/estetico-home-black-tafel-office-table-1.jpg" alt="1" />
+                <img className="imgcardlist" src="https://cdn.shoplightspeed.com/shops/645035/files/39633798/660x660x1/estetico-home-black-tafel-office-table-1.jpg" alt="1" />
               </div>
               <button className="addcart">
                 <div>
@@ -116,7 +116,7 @@ const index = () => {
                 <HiOutlineHeart />
               </div>
               <div>
-                <img style={{ width: 390 }} src="https://cdn.shoplightspeed.com/shops/645035/files/39634238/660x660x1/estetico-home-grey-string-crown-office-table-1.jpg" alt="1" />
+                <img className="imgcardlist" src="https://cdn.shoplightspeed.com/shops/645035/files/39634238/660x660x1/estetico-home-grey-string-crown-office-table-1.jpg" alt="1" />
               </div>
               <button className="addcart">
                 <div>
@@ -133,7 +133,7 @@ const index = () => {
                 <HiOutlineHeart />
               </div>
               <div>
-                <img style={{ width: 390 }} src="https://cdn.shoplightspeed.com/shops/645035/files/39633862/660x660x1/estetico-home-beige-zuri-office-table-1.jpg" alt="1" />
+                <img className="imgcardlist" src="https://cdn.shoplightspeed.com/shops/645035/files/39633862/660x660x1/estetico-home-beige-zuri-office-table-1.jpg" alt="1" />
               </div>
               <button className="addcart">
                 <div>
@@ -150,7 +150,7 @@ const index = () => {
                 <HiOutlineHeart />
               </div>
               <div>
-                <img style={{ width: 390 }} src="https://cdn.shoplightspeed.com/shops/645035/files/39633824/660x660x1/estetico-home-white-zuri-office-table-1.jpg" alt="1" />
+                <img className="imgcardlist" src="https://cdn.shoplightspeed.com/shops/645035/files/39633824/660x660x1/estetico-home-white-zuri-office-table-1.jpg" alt="1" />
               </div>
               <button className="addcart">
                 <div>
@@ -167,7 +167,7 @@ const index = () => {
                 <HiOutlineHeart />
               </div>
               <div>
-                <img style={{ width: 390 }} src="https://cdn.shoplightspeed.com/shops/645035/files/39634238/660x660x1/estetico-home-grey-string-crown-office-table-1.jpg" alt="1" />
+                <img className="imgcardlist" src="https://cdn.shoplightspeed.com/shops/645035/files/39634238/660x660x1/estetico-home-grey-string-crown-office-table-1.jpg" alt="1" />
               </div>
               <button className="addcart">
                 <div>
@@ -184,7 +184,7 @@ const index = () => {
                 <HiOutlineHeart />
               </div>
               <div>
-                <img style={{ width: 390 }} src="https://cdn.shoplightspeed.com/shops/645035/files/39633862/660x660x1/estetico-home-beige-zuri-office-table-1.jpg" alt="1" />
+                <img className="imgcardlist" src="https://cdn.shoplightspeed.com/shops/645035/files/39633862/660x660x1/estetico-home-beige-zuri-office-table-1.jpg" alt="1" />
               </div>
               <button className="addcart">
                 <div>
